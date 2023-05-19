@@ -5,4 +5,4 @@ A Robotic Arm, sometimes referred to as an industrial robot, is often described 
 with a number of joints that either move along an axis or can rotate in certain directions. In this project a robotic arm was developed that would be able to copy the
 gesture of any human arm, using Arduino. 
 
-The file named "arduino codes" contains all the Arduino based coding for this project.
+The file named "arduino codes" under the main secrion contains all the Arduino based coding for this project.
